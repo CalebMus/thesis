@@ -1,4 +1,4 @@
-# Development of a Python-Based Software for Calculating the Jones Polynomial: Insights into the Behavior of Polymers and Biopolymers
+# Development of a Python-Based Software for Calculating the Jones Polynomial
 
 [https://arxiv.org/pdf/2410.22652](https://arxiv.org/abs/2410.22652)
 
