@@ -15,4 +15,4 @@ Basic usage can be ran through main.py. Additional 3-D knot configurations can b
 Thesis Advisor: Eleni Panagiotou, Ph.D.
 Committee Members: Andrea Richa, Ph.D.
 
-All code was written by Kasturi Barkataki and Caleb Musfeldt
+All code was written by Caleb Musfeldt and Kasturi Barkataki
